@@ -1,0 +1,11 @@
+# 本机运行产生，勿提交
+python_path.txt
+.launcher.key
+launcher.log
+pydeps/
+尝试/
+__pycache__/
+*.pyc
+*_staging/
+*_old/
+*_git_backup/
